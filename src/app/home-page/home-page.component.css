@@ -1,0 +1,93 @@
+
+#body{
+        background: #fff;
+    color: #444;
+}
+
+
+.nav{
+    margin: -6px;
+    padding: 0;
+    list-style: none;
+}
+
+.home-link{
+    padding: 22px 10px;
+    text-decoration: none;
+    display: inline-block;
+    color: #2d2a2a;
+    font-size: 18px;
+    outline: none;
+    font-weight: 700;
+    font-family: unset;
+}
+
+.nav a:hover{
+  color: red;
+}
+
+.home-log{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    font-weight: 600
+}
+
+.container{
+    position: relative;
+    padding-top: 1rem;
+}
+
+.section-nav{
+    background-image: url(../../assets/images/bright1.png);
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.section-info{
+    background-color: brown;
+    height: 80px;
+}
+
+.home-info{
+    color: aliceblue;
+    font-size: 23px;
+    font-weight: 700;
+    margin-left: 82px;
+    padding-top: 23px;
+}
+
+.home-para{
+    color: #b52d2d;
+    font-size: 23px;
+    font-family: sans-serif
+}
+
+.card-img-top{
+    height: 200px;
+}
+
+.news-data {
+background-color: azure;
+}
+hr{
+    background-color: #fff;
+}
+
+.data-card{
+    overflow-y: scroll;
+    position: relative;
+    padding: 10px;
+}
+
+.footer-section{
+    border: 0.5px solid black;
+    height: 8px;
+    background-color: #bd2c2c
+}
+
+.vertical-bar{
+    height: 44px;
+    border: 2px solid red;
+    background-color: red;
+    margin-top: 20px;
+}
